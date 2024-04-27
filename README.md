@@ -9,7 +9,8 @@ Robust error handling ensures smooth operation even in case of API failures.
 User-friendly interface allows easy input of source language, target language, and text to translate.
 
 ## Install the required dependencies:
-| `pip install openai` |
+`pip install openai`
+
 Obtain an API key from OpenAI. You can sign up and get your API key here.
 Replace YOUR_API_KEY in the main.py file with your actual OpenAI API key.
 Run the main.py file:
